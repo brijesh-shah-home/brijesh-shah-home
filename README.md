@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @brijesh-shah-home
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Master of Computer Application 
-- 📫 Contact me via Email id 
-- 😄 Pronouns: Brijesh Shah 
-- ⚡ Fun fact: ...
-
-<!---
-brijesh-shah-home/brijesh-shah-home is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, World! 🌍 I'm Brijesh Shah 👋
+💻 Web Development Enthusiast: I love crafting sleek, user-friendly web experiences and exploring the latest trends in tech!
+🎓 Currently Pursuing: A Master's in Computer Applications (MCA) to supercharge my coding superpowers! 🚀
+📬 Reach Out: Drop me an email – I’m always up for collaborations, tech talk, or just a friendly chat.
+✨ Pronouns: He/Him
+⚡ Fun Fact: I'm a digital wizard who’s constantly upgrading – think of me as a web developer with a never-ending update cycle! 
